@@ -1,2 +1,2 @@
 # JavaMysqlForum
-a forum writting in java swing
+the subforums are static so only one works
